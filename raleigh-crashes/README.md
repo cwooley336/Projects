@@ -30,8 +30,12 @@ This project analyzes car crash data from Raleigh, North Carolina (2015–2024) 
   - Extracted feature importances to guide future data collection
 
 ## Sample Visualizations
-### 📈 2025 Crash Forecast (SARIMA)
-![SARIMA Forecast](x)
+### 2025 Crash Forecast (SARIMA)
+![SARIMA Forecast](https://github.com/cwooley336/Projects/blob/823cf5b563c2f4611648acc2c0061e80ce70806c/raleigh-crashes/SARIMA%20forecasted%20crashes.png)
+### Top 10 Roads (Crash Count) 
+![Top 10 Roads](https://github.com/cwooley336/Projects/blob/823cf5b563c2f4611648acc2c0061e80ce70806c/raleigh-crashes/top_roads.png)
+### Directional Crash Density (Relative to Downtown Raleigh)
+![Compass](https://github.com/cwooley336/Projects/blob/823cf5b563c2f4611648acc2c0061e80ce70806c/raleigh-crashes/compass_crashes.png)
 ---
 
 
