@@ -1,13 +1,14 @@
 # Raleigh Car Crashes: Data Science & Analytics Project
 
-This project analyzes car crash data from Raleigh, North Carolina (2015–2024) to uncover patterns, forecast future crash trends, and predict fatal outcomes. It combines exploratory analysis, time-series forecasting, and classification modeling to support public safety and urban planning. 
+This project analyzes car crash data from Raleigh, North Carolina (2015–2024) to uncover patterns, forecast future crash trends, and predict fatal outcomes. It combines exploratory analysis, time-series forecasting, and classification modeling to support public safety. Additionally, an interactive Power BI dashboard is included for a more focused analysis of raleigh car crash dynamics.
 
 ---
 
-## Project Highlights
+## Project Description
 
 - **Data Cleaning & Feature Engineering**
   - Cleaned and manipulated crash records using `pandas`
+  - Prepared data for Power BI interactive dashboard
   - Engineered temporal features (hour, weekday, month)
   - Encoded categorical variables and handled missing data
 
