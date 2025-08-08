@@ -29,6 +29,9 @@ This project analyzes car crash data from Raleigh, North Carolina (2015–2024) 
   - Evaluated performance using precision, recall, ROC-AUC, and PR curves
   - Extracted feature importances to guide future data collection
 
+## Sample Visualizations
+### 📈 2025 Crash Forecast (SARIMA)
+![SARIMA Forecast](x)
 ---
 
 
