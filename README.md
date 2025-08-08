@@ -5,4 +5,6 @@ Data Science and Analytics Projects
 
 This project explores patterns and predictors of car crashes in Raleigh, North Carolina using real-world crash data from 2015–2024. It combines data cleaning, exploratory analysis, and machine learning prediction to forecast future crash trends.
 
+Additionally, data was prepared for interactive visualization using Power BI
+
 ---
