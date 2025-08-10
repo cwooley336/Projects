@@ -38,7 +38,11 @@ This project analyzes car crash data from Raleigh, North Carolina (2015–2024) 
 ### Directional Crash Density (Relative to Downtown Raleigh)
 ![Compass](https://github.com/cwooley336/Projects/blob/823cf5b563c2f4611648acc2c0061e80ce70806c/raleigh-crashes/compass_crashes.png)
 ---
-## Dashboard Previews
-[📄 Raleigh Crashes Dashboard (PDF)](https://github.com/cwooley336/Projects/blob/303043ad763a8e277c2239caf14b7f753935151c/raleigh-crashes/Raleigh%20Crashes%20Dashboard.pdf)
+#### 📄 PDF Snapshots of Power BI Dashboard Interactivity
+
+These static PDFs demonstrate key interactive features of the dashboard:
+
+- [📄 Raleigh Crashes Dashboard (Full PDF)](https://github.com/cwooley336/Projects/blob/303043ad763a8e277c2239caf14b7f753935151c/raleigh-crashes/Raleigh%20Crashes%20Dashboard.pdf)
+- [📄 Raleigh Crashes Dashboard – Filtered Example (PDF)](https://github.com/cwooley336/Projects/blob/303043ad763a8e277c2239caf14b7f753935151c/raleigh-crashes/Raleigh%20Crashes%20Dashboard%20Filtered%20Example.pdf)
 
 
