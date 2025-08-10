@@ -42,3 +42,11 @@ This project analyzes car crash data from Raleigh, North Carolina (2015–2024) 
 View the Power BI dashboard as a PDF (without interactivity):  
 [Raleigh Crashes Dashboard](https://github.com/cwooley336/Projects/blob/35559e0bd0239052a506901c96fcb5c6db25dfca/raleigh-crashes/Raleigh%20Crashes%20Dashboard.pdf)
 
+## 📊 Dashboard PDF
+
+[View the Raleigh Crashes Dashboard (PDF)](raleigh-crashes/Raleigh%20Crashes%20Dashboard.pdf)
+
+## 📊 Interactive Example PDF
+
+[View the Raleigh Crashes Dashboard (PDF)](raleigh-crashes/Raleigh%20Crashes%20Dashboard%20Filtered%20Example.pdf)
+
