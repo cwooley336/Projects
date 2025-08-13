@@ -21,3 +21,13 @@ This project analyzes a clinical dataset containing patient information related 
   - Compared supervised feature importances to unsupervised PCA loadings for interpretability
 
 ### Sample Visualizations
+### t-SNE Visualization of Heart Disease Clusters
+![t-SNE](https://github.com/cwooley336/Projects/blob/main/heart-disease/tsne_plot.png)
+
+### PCA: PC1 vs PC2 Scatterplot
+![PCA Scatter](https://github.com/cwooley336/Projects/blob/main/heart-disease/pca_scatter.png)
+
+### Top 10 Features by XGBoost Gain
+![XGBoost Gain](https://github.com/cwooley336/Projects/blob/main/heart-disease/xgboost_gain.png)
+
+---
