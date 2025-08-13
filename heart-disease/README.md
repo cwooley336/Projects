@@ -21,6 +21,9 @@ This project analyzes a clinical dataset containing patient information related 
   - Compared supervised feature importances to unsupervised PCA loadings for interpretability
 
 ### Sample Visualizations
+### Feature Distributions by Heart Disease Status
+![Feature Distributions](https://github.com/cwooley336/Projects/blob/main/heart-disease/feature_distributions.png)
+
 ### t-SNE Visualization of Heart Disease Clusters
 ![t-SNE](https://github.com/cwooley336/Projects/blob/main/heart-disease/tsne_plot.png)
 
@@ -31,3 +34,4 @@ This project analyzes a clinical dataset containing patient information related 
 ![XGBoost Gain](https://github.com/cwooley336/Projects/blob/main/heart-disease/xgboost_gain.png)
 
 ---
+
