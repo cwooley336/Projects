@@ -2,7 +2,7 @@
 ## Data science and analytics projects with Jupyter notebooks, Power BI Dashboards, and project descriptions included:
 
 
-# 1) Raleigh Car Crashes: Data Science & Analytics Project
+## 1) Raleigh Car Crashes: Data Science & Analytics Project
 
 This project analyzes car crash data from Raleigh, North Carolina (2015–2024) to uncover patterns, forecast future crash trends, and predict fatal outcomes. It combines exploratory analysis, time-series forecasting, and machine learning (classification) modeling to support public safety. Additionally, an interactive Power BI dashboard was created to further explore raleigh car crash dynamics. 
 
@@ -51,7 +51,7 @@ These static PDFs demonstrate key interactive features of the dashboard:
 
 --- 
 
-# 2) Heart Disease Risk Analysis: 
+## 2) Heart Disease Risk Analysis: 
 
 This project analyzes a clinical dataset containing patient information related to heart disease. It combines exploratory data analysis, unsupervised dimensionality reduction, and supervised machine learning to uncover key features associated with heart disease risk. 
 
